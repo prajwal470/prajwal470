@@ -4,7 +4,8 @@
 
 ## I have interest in ML and AI so I make Projects based on them. I Do like playing Games and competitive coding.
 
-## Skills: Python/Machine Learning/C++/MySQL
+## Skills
+- ### Python/Machine Learning/C++/MySQL
 
 - 🔭 I’m currently working on Keratoconus detector 
 - 🌱 I’m currently learning Deep learning And Machine learning  
@@ -15,7 +16,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prajwal-simha-15857b1a2/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' #alt='twitter' height='40'>](https://twitter.com/@Prajwalsimha47)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Prajwalsimha47)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal470)](https://github.com/anuraghazra/github-readme-stats)
 
