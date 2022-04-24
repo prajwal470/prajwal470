@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Prajwal Simha
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fzecueq-mo4M%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dzecueq-mo4M&tbnid=4kxbyVqzDzrtDM&vet=12ahUKEwjKtrK5yaz3AhUhgWMGHa0UAzkQMygVegUIARDiAQ..i&docid=pfmRjzUBQI1A-M&w=1280&h=720&q=hello%20world&ved=2ahUKEwjKtrK5yaz3AhUhgWMGHa0UAzkQMygVegUIARDiAQ)
+![](https://user-images.githubusercontent.com/68987382/164974224-18865cba-9734-46fe-9b20-f46aa4245bfd.jpg)
+
 
 I have interest in ML and AI so I make Projects based on them. I Do like playing Games and competitive coding.
 
