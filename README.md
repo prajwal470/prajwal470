@@ -8,8 +8,6 @@
 - ### Python/Machine Learning/C++/MySQL
 
 ## Additional 
-- 🔭 I’m currently working on Keratoconus detector 
-- 🌱 I’m currently learning Deep learning And Machine learning  
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/prajwal-simha-15857b1a2) 
 
 ## Contact me
